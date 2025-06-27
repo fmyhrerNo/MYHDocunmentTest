@@ -3,10 +3,10 @@
       "content": [
         {
           "files": [
-		  			"Test01/**.md",
-						"Test01/**/toc.yml",
-						"toc.yml",
-						"*.md"
+		"Test01/**.md",
+		"Test01/**/toc.yml",
+		"toc.yml",
+		"*.md"
 					]
         }
       ],
