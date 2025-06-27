@@ -1,2 +1,4 @@
+pdfCoverPage: "PdfFormatting/Cover.html"
+items:
 - name: index.md
   href: index.md
