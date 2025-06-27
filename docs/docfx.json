@@ -28,7 +28,7 @@
       "keepFileLink": false,
       "globalMetadata": {
         "_appLogoPath": "media/logo.svg",
-	"pdf": "true"
+	"pdf": true
       },
       "disableGitFeatures": false
     }
