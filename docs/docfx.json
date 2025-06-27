@@ -27,8 +27,8 @@
       "postProcessors": [],
       "keepFileLink": false,
       "globalMetadata": {
-        "_appLogoPath": "media/logo.svg",
-				"pdf": "true"
+        "_appLogoPath": "media/logo2.svg",
+				"pdf": true
       },
       "disableGitFeatures": false
     }
