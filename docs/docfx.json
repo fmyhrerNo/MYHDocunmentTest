@@ -3,10 +3,12 @@
       "content": [
         {
           "files": [
-		"Test01/**.md",
-		"Test01/**/toc.yml",
-		"toc.yml",
-		"*.md"
+		  			"Test01/**.md",
+						"Test01/**/toc.yml",
+						"_site/**.md",
+						"_site/**/toc.yml",
+						"toc.yml",
+						"*.md"
 					]
         }
       ],
@@ -33,4 +35,3 @@
       "disableGitFeatures": false
     }
   }
-  
