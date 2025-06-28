@@ -1,6 +1,4 @@
-pdfCoverPage: cover.html
-pdfTocPage: true
-pdfFileName: Test01.pdf
+pdfFileName: Test01.pdf     
 items:
 - name: index.md
   href: index.md
