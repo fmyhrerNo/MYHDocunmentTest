@@ -30,7 +30,11 @@
       "keepFileLink": false,
       "globalMetadata": {
         "_appLogoPath": "media/logo2.svg",
-				"pdf": true
+				"pdf": true,
+        "pdfCoverPage": "cover.html",
+        "pdfTocPage": true,
+        "pdfHeaderTemplate": "<div style=\"width: 100%; font-size: 22px;\"><div style=\"text-align: center; padding: 0 2em\"<p>Test Documentation for DocFX<\/p><\/div><\/div>",
+        "pdfFooterTemplate": "<div style=\"width: 100%; font-size: 12px;\"><div style=\"text-align: center; padding: 0 2em\"<p>Copyright &copy; 2025 Myhrer.net<\/p><span class=\"pageNumber\"><\/span> \/ <span class=\"totalPages\"><\/span><\/div><\/div>"
       },
       "disableGitFeatures": false
     }
